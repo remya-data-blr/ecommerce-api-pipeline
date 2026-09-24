@@ -15,6 +15,6 @@
 
 **How to run:**
 
-pip install requests pandas
-python API_project.py
-python run_sql.py
+1.pip install requests pandas
+2.python API_project.py
+3.python run_sql.py
