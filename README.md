@@ -21,23 +21,21 @@ python run_sql.py
 
 ## 📊 Output - Gold Layer Analytics
 
-Pipeline Run: 
+OUTPUT:
 
-   Fetching from API...
-   Bronze: 100 products saved
-   Gold: Loaded to ecommerce.db -> table api_products
-   Process finished with exit code 0
+Pipeline Run:
+Fetching from API... 
+Bronze: 100 products
+Gold: Loaded to ecommerce.db
+Success! Exit code 0
 
-Query 1: Category Performance
+Category Performance:
+- mens-watches: 6 products, Avg $8098
+- laptops: 5 products, Avg $1559
+- furniture: 5 products, Avg $1199
 
-   mens-watches | 6 products | Avg $8098.32 | Stock 349
-   laptops | 5 products | Avg $1559.99 | Stock 258
-   furniture | 5 products | Avg $1199.99 | Stock 245
-   Insight: Mens-watches is highest value category.
+Top Products:
+- Rolex Cellini: $8999, Rating 4.97
+- Colombo Bed: $1899, Rating 4.77
 
-Query 2: Top Rated Premium Products
-
-   Rolex Cellini - $8999.99 - Rating 4.97
-   Annibale Colombo Bed - $1899.99 - Rating 4.77
-   Huawei Matebook X Pro - $1399.99 - Rating 4.98
-   Insight: Rolex has highest price with near-perfect rating.
+Insight: Mens-watches is highest value.
