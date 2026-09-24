@@ -14,8 +14,7 @@
 - Top rated high-value products for marketing focus
 
 **How to run:**
+
 pip install requests pandas
-
 python API_project.py
-
 python run_sql.py
