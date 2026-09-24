@@ -13,10 +13,9 @@
 - Category-wise avg price & stock analysis
 - Top rated high-value products for marketing focus
 
-**How to run:**
-
-1.pip install requests pandas 
-
-2.python API_project.py 
-
-3.python run_sql.py
+How to run:
+```bash
+pip install requests pandas
+python API_project.py
+python run_sql.py
+```
