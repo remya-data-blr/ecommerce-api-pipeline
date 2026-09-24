@@ -2,7 +2,7 @@
 
 End-to-end Data Engineering project ingesting live product data from DummyJSON API.
 
-## 🏗️ Medallion Architecture
+## 🏗️ Architecture
  Bronze -> Silver -> Gold
 
 - **Bronze (Raw):** bronze/raw_products.json
